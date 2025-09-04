@@ -357,6 +357,12 @@
                 display: flex;
             }
 
+            .bingo-photo {
+                width: 150px;
+                height: 150px;
+                margin-bottom: 1.5rem;
+            }
+
             .hero-content h1 {
                 font-size: 2.5rem;
             }
